@@ -1,4 +1,5 @@
-CosmosCraft
+NaturosCraft
 ===========
 
 Nature inspired Mod
+
